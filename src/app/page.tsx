@@ -2,7 +2,7 @@ import AddPost from "@/components/home/center/AddPost";
 import Feed from "@/components/home/center/Feed";
 import Stories from "@/components/home/center/Stories";
 import LeftMenu from "@/components/home/LeftMenu";
-import RightMenu from "@/components/home/RightMenu";
+import RightMenu from "@/components/home/right/RightMenu";
 
 export default function Home() {
   return (
